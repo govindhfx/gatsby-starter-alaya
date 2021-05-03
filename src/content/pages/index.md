@@ -8,5 +8,4 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Alaya Foods is the source high quality organic foods from across the world. We source all of our foods directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities.
