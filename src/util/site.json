@@ -1,9 +1,9 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Alaya Foods",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Alaya Foods Inc. - 2021. Made with ❤ by IAMGRT.COM",
+    "siteUrl": "https://alayafoods.com",
     "image": "/assets/stackrole.png",
     "iconimage": "/assets/stackrole.png",
     "twitterUsername": "@stackrole"
