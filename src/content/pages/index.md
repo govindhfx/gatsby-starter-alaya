@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: FOODS OF THE WORLD BY ALAYA
+tagline: Making Food Accesible
+featuredImage: /assets/alaya_foods_banners_mobile.png
 cta:
   ctaText: Know more
   ctaLink: /about
